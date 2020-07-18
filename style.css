@@ -1,6 +1,9 @@
 body {
-    background-image: url("pink_birthday_cake-wallpaper-640x480.jpg");
+    /* background-image: url("deva-williamson-m4A2KWBU7xI-unsplash.jpg"); */
+    background-image: url("pink_birthday_cake-wallpaper-800x600.jpg");
     /* background-color: #cccccc; */
+    background-repeat: no-repeat;
+    /* background-size: 500px 600%; */
    }
 
 .ml11 {
